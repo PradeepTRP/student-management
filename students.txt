@@ -1,0 +1,10 @@
+101,Aarav Sharma,Computer Science,88.5
+102,Priya Patel,Information Technology,92.0
+103,Rohan Verma,Electronics,74.5
+104,Sneha Reddy,Computer Science,65.0
+105,Vikram Singh,Mechanical,81.0
+106,Ananya Das,Information Technology,95.5
+107,Karthik Kumar,Civil Engineering,58.0
+108,Divya Nair,Computer Science,42.5
+109,mukesh,Electrical Engineering,100.0
+110,kevin,Information Technology,85.0

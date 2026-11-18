@@ -1,0 +1,7 @@
+{
+  "mongodb_uri": "mongodb+srv://<db_username>:WQAMVP3SHpCwwuVy@cluster0.xyt8qur.mongodb.net/?retryWrites=true&w=majority",
+  "db_username": "",
+  "db_name": "student_management_db",
+  "collection_name": "students",
+  "sync_with_file": true
+}
